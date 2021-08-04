@@ -1,8 +1,9 @@
 ---
-frontPageHeading: Self-Paced Video-Taped In Depth Interviews
+frontPageHeading: Merch Ban
 menuButtonText: Learn More
-buttonText: Start Your Learning Journey
+buttonText: Let's Go!
 title: VIDI Self Paced Training Homepage
 FrontPageImage: "/ijm.jpg"
-TrainingLocation: ""
+TrainingLocation: ''
+
 ---
