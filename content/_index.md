@@ -1,5 +1,5 @@
 ---
-frontPageHeading: Merch Ban
+frontPageHeading: Learn Together
 menuButtonText: Learn More
 buttonText: Let's Go!
 title: VIDI Self Paced Training Homepage
